@@ -1,7 +1,7 @@
 /**
  * Fernando Contreras
  * Assignment 9.2: Random Number File I/O
- * July 15, 2026
+ * July 18, 2026
  * CSD-402: Java for Programmers
  *
  * Description: This program creates a file named data.file if it does
